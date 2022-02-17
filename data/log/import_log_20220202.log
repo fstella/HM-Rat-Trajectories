@@ -1,0 +1,563 @@
+INFO:root:
+ -------------- FOUND 22 FILES TO IMPORT -------------
+
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat5 on 2021-06-28 (Rat_HM_Ephys_Rat5_406576_20210628.txt)
+---------------------------------------------------------------------------
+29 trials found initially
+3 duplicate trials found
+Trial 1
+Trial 11
+Trial 25
+746 duplicate lines found
+Final number of trials loaded: 25
+
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 104 in places other than last
+ERROR: trial 11 contains target node 104 in places other than last
+ERROR: trial 25 contains target node 104 in places other than last
+
+Removed bad trials: [1, 11, 25]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat5 on 2021-06-29 (Rat_HM_Ephys_Rat5_406576_20210629.txt)
+---------------------------------------------------------------------------
+47 trials found initially
+18 duplicate trials found
+Trial 1
+Trial 1
+Trial 1
+Trial 2
+Trial 3
+Trial 4
+Trial 5
+Trial 6
+Trial 7
+Trial 8
+Trial 9
+Trial 10
+Trial 11
+Trial 12
+Trial 13
+Trial 14
+Trial 14
+Trial 28
+1147 duplicate lines found
+Final number of trials loaded: 28
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 104 in places other than last
+ERROR: trial 14 contains target node 104 in places other than last
+ERROR: trial 28 contains target node 104 in places other than last
+
+Removed bad trials: [1, 14, 28]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat5 on 2021-07-10 (Rat_HM_Ephys_Rat5_406576_20210710.txt)
+---------------------------------------------------------------------------
+22 trials found initially
+0 duplicate trials found
+243 duplicate lines found
+Final number of trials loaded: 21
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 104 in places other than last
+ERROR: trial 13 contains target node 104 in places other than last
+ERROR: trial 21 contains target node 104 in places other than last
+
+Removed bad trials: [1, 13, 21]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat5 on 2021-07-11 (Rat_HM_Ephys_Rat5_406576_20210711.txt)
+---------------------------------------------------------------------------
+19 trials found initially
+0 duplicate trials found
+108 duplicate lines found
+Final number of trials loaded: 18
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 104 in places other than last
+ERROR: trial 10 contains target node 104 in places other than last
+
+Removed bad trials: [1, 10]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat5 on 2021-07-13 (Rat_HM_Ephys_Rat5_406576_20210713.txt)
+---------------------------------------------------------------------------
+30 trials found initially
+0 duplicate trials found
+56 duplicate lines found
+Final number of trials loaded: 29
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 322 in places other than last
+ERROR: trial 15 contains target node 322 in places other than last
+ERROR: trial 29 contains target node 322 in places other than last
+
+Removed bad trials: [1, 15, 29]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat5 on 2021-07-15 (Rat_HM_Ephys_Rat5_406576_20210715.txt)
+---------------------------------------------------------------------------
+34 trials found initially
+1 duplicate trials found
+Trial 32
+150 duplicate lines found
+Final number of trials loaded: 32
+
+ERROR:root:ERROR: Speed inconsistency found in trial 20
+ERROR: Speed inconsistency found in trial 29
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 322 in places other than last
+ERROR: trial 16 contains target node 322 in places other than last
+ERROR: trial 32 contains target node 322 in places other than last
+
+Removed bad trials: [20, 29, 1, 16, 32]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-06-18 (Rat_HM_Ephys_Rat7_406578_20210618.txt)
+---------------------------------------------------------------------------
+15 trials found initially
+0 duplicate trials found
+26 duplicate lines found
+Final number of trials loaded: 14
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+
+Removed bad trials: []
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-07-16 (Rat_HM_Ephys_Rat7_406578_20210716.txt)
+---------------------------------------------------------------------------
+23 trials found initially
+0 duplicate trials found
+42 duplicate lines found
+Final number of trials loaded: 22
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 209 in places other than last
+ERROR: trial 12 contains target node 209 in places other than last
+
+Removed bad trials: [1, 12]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-07-18 (Rat_HM_Ephys_Rat7_406578_20210718.txt)
+---------------------------------------------------------------------------
+29 trials found initially
+0 duplicate trials found
+54 duplicate lines found
+Final number of trials loaded: 28
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 209 in places other than last
+ERROR: trial 14 contains target node 209 in places other than last
+ERROR: trial 28 contains target node 209 in places other than last
+
+Removed bad trials: [1, 14, 28]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-07-20 (Rat_HM_Ephys_Rat7_406578_20210720.txt)
+---------------------------------------------------------------------------
+30 trials found initially
+0 duplicate trials found
+56 duplicate lines found
+Final number of trials loaded: 29
+
+ERROR:root:ERROR: Speed inconsistency found in trial 20
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 318 in places other than last
+ERROR: trial 16 contains target node 318 in places other than last
+ERROR: trial 29 contains target node 318 in places other than last
+
+Removed bad trials: [20, 1, 16, 29]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-07-22 (Rat_HM_Ephys_Rat7_406578_20210722.txt)
+---------------------------------------------------------------------------
+32 trials found initially
+0 duplicate trials found
+60 duplicate lines found
+Final number of trials loaded: 31
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 318 in places other than last
+ERROR: trial 16 contains target node 318 in places other than last
+
+Removed bad trials: [1, 16]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-07-23 (Rat_HM_Ephys_Rat7_406578_20210723.txt)
+---------------------------------------------------------------------------
+32 trials found initially
+0 duplicate trials found
+60 duplicate lines found
+Final number of trials loaded: 31
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 318 in places other than last
+ERROR: trial 15 contains target node 318 in places other than last
+
+Removed bad trials: [1, 15]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-08-01 (Rat_HM_Ephys_Rat7_406578_20210801.txt)
+---------------------------------------------------------------------------
+28 trials found initially
+0 duplicate trials found
+52 duplicate lines found
+Final number of trials loaded: 27
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 406 in places other than last
+ERROR: trial 17 contains target node 406 in places other than last
+ERROR: trial 27 contains target node 406 in places other than last
+
+Removed bad trials: [1, 17, 27]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat7 on 2021-08-02 (Rat_HM_Ephys_Rat7_406578_20210802.txt)
+---------------------------------------------------------------------------
+33 trials found initially
+0 duplicate trials found
+62 duplicate lines found
+Final number of trials loaded: 32
+
+ERROR:root:ERROR: Speed inconsistency found in trial 1
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 406 in places other than last
+ERROR: trial 16 contains target node 406 in places other than last
+
+Removed bad trials: [1, 1, 16]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-06-18 (Rat_HM_Ephys_Rat8_406579_20210618.txt)
+---------------------------------------------------------------------------
+16 trials found initially
+0 duplicate trials found
+28 duplicate lines found
+Final number of trials loaded: 15
+***Trial 7 is empty ****
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+
+Removed bad trials: []
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-07-31 (Rat_HM_Ephys_Rat8_406579_20210731.txt)
+---------------------------------------------------------------------------
+25 trials found initially
+0 duplicate trials found
+46 duplicate lines found
+Final number of trials loaded: 24
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 413 in places other than last
+ERROR: trial 13 contains target node 413 in places other than last
+ERROR: trial 24 contains target node 413 in places other than last
+
+Removed bad trials: [1, 13, 24]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-08-03 (Rat_HM_Ephys_Rat8_406579_20210803.txt)
+---------------------------------------------------------------------------
+14 trials found initially
+0 duplicate trials found
+24 duplicate lines found
+Final number of trials loaded: 13
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 103 in places other than last
+ERROR: trial 11 contains target node 103 in places other than last
+ERROR: trial 13 contains target node 103 in places other than last
+
+Removed bad trials: [1, 11, 13]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-08-10 (Rat_HM_Ephys_Rat8_406579_20210810.txt)
+---------------------------------------------------------------------------
+15 trials found initially
+0 duplicate trials found
+26 duplicate lines found
+Final number of trials loaded: 14
+
+ERROR:root:ERROR: Speed inconsistency found in trial 1
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 103 in places other than last
+ERROR: trial 10 contains target node 103 in places other than last
+ERROR: trial 14 contains target node 103 in places other than last
+
+Removed bad trials: [1, 1, 10, 14]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-08-11 (Rat_HM_Ephys_Rat8_406579_20210811.txt)
+---------------------------------------------------------------------------
+18 trials found initially
+0 duplicate trials found
+32 duplicate lines found
+Final number of trials loaded: 17
+
+ERROR:root:ERROR: Speed inconsistency found in trial 1
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 103 in places other than last
+ERROR: trial 9 contains target node 103 in places other than last
+ERROR: trial 17 contains target node 103 in places other than last
+
+Removed bad trials: [1, 1, 9, 17]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-08-15 (Rat_HM_Ephys_Rat8_406579_20210815.txt)
+---------------------------------------------------------------------------
+21 trials found initially
+0 duplicate trials found
+39 duplicate lines found
+Final number of trials loaded: 20
+
+ERROR:root:ERROR: Speed inconsistency found in trial 14
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 317 in places other than last
+ERROR: trial 13 contains target node 317 in places other than last
+
+Removed bad trials: [14, 1, 13]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-08-17 (Rat_HM_Ephys_Rat8_406579_20210817.txt)
+---------------------------------------------------------------------------
+53 trials found initially
+26 duplicate trials found
+Trial 1
+Trial 2
+Trial 3
+Trial 4
+Trial 5
+Trial 6
+Trial 7
+Trial 8
+Trial 9
+Trial 10
+Trial 11
+Trial 12
+Trial 13
+Trial 14
+Trial 15
+Trial 16
+Trial 17
+Trial 18
+Trial 19
+Trial 20
+Trial 21
+Trial 22
+Trial 23
+Trial 24
+Trial 25
+Trial 26
+554 duplicate lines found
+Final number of trials loaded: 26
+
+ERROR:root:ERROR: Speed inconsistency found in trial 26
+
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 317 in places other than last
+ERROR: trial 12 contains target node 317 in places other than last
+ERROR: trial 26 contains target node 317 in places other than last
+
+Removed bad trials: [26, 1, 12, 26]
+
+INFO:root:
+
+=========================================================================
+Importing data from Rat8 on 2021-08-19 (Rat_HM_Ephys_Rat8_406579_20210819.txt)
+---------------------------------------------------------------------------
+28 trials found initially
+0 duplicate trials found
+52 duplicate lines found
+Final number of trials loaded: 27
+
+ERROR:root:
+INFO:root:
+
+----------------------------------------------------------------------------
+Data verification and removal of bad trials
+----------------------------------------------------------------------------
+ERROR: trial 1 contains target node 317 in places other than last
+ERROR: trial 15 contains target node 317 in places other than last
+ERROR: trial 27 contains target node 317 in places other than last
+
+Removed bad trials: [1, 15, 27]
+
+INFO:root:
+ -------------- IMPORT RESULTS --------------------------
+
+ Imported 22 sessions: 
+rat_no    date     no of trials
+INFO:root:rat_no  date      
+Rat5    2021-06-28    22
+        2021-06-29    25
+        2021-07-10    18
+        2021-07-11    16
+        2021-07-13    26
+        2021-07-15    27
+Rat7    2021-06-18    14
+        2021-07-16    20
+        2021-07-18    25
+        2021-07-20    25
+        2021-07-22    29
+        2021-07-23    29
+        2021-08-01    24
+        2021-08-02    30
+Rat8    2021-06-18    14
+        2021-07-31    21
+        2021-08-03    10
+        2021-08-10    11
+        2021-08-11    14
+        2021-08-15    17
+        2021-08-17    23
+        2021-08-19    24
+Name: trial_no, dtype: int64
